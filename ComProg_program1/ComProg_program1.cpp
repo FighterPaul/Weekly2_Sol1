@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
 #include <cstdlib>
-int main()						//Problem 25, Solution 1
+int main()						//Problem 25, Solution 1, ID Student 65010902
 {
 	int n; 
 	scanf("%d", &n);
